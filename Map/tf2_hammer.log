@@ -1,0 +1,2161 @@
+
+
+
+materialPath: E:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\lukeb\Documents\GitHub\TF2_Hammer\Map\tf2_hammer.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity filter_activator_tfteam (-2560.00 -128.00 109.57) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1536.0 4096.0 222.8)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2048.0 3584.0 222.8)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1024.0 2560.0 -65.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1024.0 2560.0 -138.4)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1024.0 2528.0 584.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1024.0 3040.0 552.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2048.0 2560.0 222.8)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1024.0 1536.0 -65.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_goldrush_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_goldrush_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_goldrush_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_goldrush_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (5685 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 25 texinfos to 21
+Reduced 5 texdatas to 5 (128 bytes to 128)
+Writing C:\Users\lukeb\Documents\GitHub\TF2_Hammer\Map\tf2_hammer.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\lukeb\Documents\GitHub\TF2_Hammer\Map\tf2_hammer.bsp', but we don't own that location. Allowing.
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\users\lukeb\documents\github\tf2_hammer\map\tf2_hammer.bsp
+reading c:\users\lukeb\documents\github\tf2_hammer\map\tf2_hammer.prt
+LoadPortals: couldn't read c:\users\lukeb\documents\github\tf2_hammer\map\tf2_hammer.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\lukeb\documents\github\tf2_hammer\map\tf2_hammer.bsp
+No vis information, direct lighting only.
+1120 faces
+1392669 square feet [200544352.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0117 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                 15/8192          180/98304    ( 0.2%) 
+brushsides              90/65536         720/524288   ( 0.1%) 
+planes                  98/65536        1960/1310720  ( 0.1%) 
+vertexes              1310/65536       15720/786432   ( 2.0%) 
+nodes                  389/65536       12448/2097152  ( 0.6%) 
+texinfos                21/12288        1512/884736   ( 0.2%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1120/65536       62720/3670016  ( 1.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               54/65536        3024/3670016  ( 0.1%) 
+leaves                 392/65536       12544/2097152  ( 0.6%) 
+leaffaces             1174/65536        2348/131072   ( 1.8%) 
+leafbrushes            142/65536         284/131072   ( 0.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             4947/512000      19788/2048000  ( 1.0%) 
+edges                 2577/256000      10308/1024000  ( 1.0%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             32/32768         320/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           408/65536         816/131072   ( 0.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1715028/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        5311/393216   ( 1.4%) 
+LDR ambient table      392/65536        1568/262144   ( 0.6%) 
+HDR ambient table      392/65536        1568/262144   ( 0.6%) 
+LDR leaf ambient      2503/65536       70084/1835008  ( 3.8%) 
+HDR leaf ambient       392/65536       10976/1835008  ( 0.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]        5685/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2491
+Writing c:\users\lukeb\documents\github\tf2_hammer\map\tf2_hammer.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+3 seconds elapsed
+
+
+
+materialPath: E:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\lukeb\Documents\GitHub\TF2_Hammer\Map\tf2_hammer.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity filter_activator_tfteam (-2560.00 -128.00 240.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1536.0 4096.0 222.8)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2048.0 3584.0 222.8)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1024.0 2560.0 -65.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1024.0 2560.0 -138.4)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1024.0 2528.0 584.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1024.0 3040.0 552.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2048.0 2560.0 222.8)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1024.0 1536.0 -65.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_goldrush_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_goldrush_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_goldrush_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_goldrush_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (6469 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 31 texinfos to 27
+Reduced 6 texdatas to 6 (151 bytes to 151)
+Writing C:\Users\lukeb\Documents\GitHub\TF2_Hammer\Map\tf2_hammer.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\lukeb\Documents\GitHub\TF2_Hammer\Map\tf2_hammer.bsp', but we don't own that location. Allowing.
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\users\lukeb\documents\github\tf2_hammer\map\tf2_hammer.bsp
+reading c:\users\lukeb\documents\github\tf2_hammer\map\tf2_hammer.prt
+LoadPortals: couldn't read c:\users\lukeb\documents\github\tf2_hammer\map\tf2_hammer.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\lukeb\documents\github\tf2_hammer\map\tf2_hammer.bsp
+No vis information, direct lighting only.
+1152 faces
+1404561 square feet [202256800.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0140 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                 17/8192          204/98304    ( 0.2%) 
+brushsides             104/65536         832/524288   ( 0.2%) 
+planes                 120/65536        2400/1310720  ( 0.2%) 
+vertexes              1367/65536       16404/786432   ( 2.1%) 
+nodes                  404/65536       12928/2097152  ( 0.6%) 
+texinfos                27/12288        1944/884736   ( 0.2%) 
+texdata                  6/2048          192/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1152/65536       64512/3670016  ( 1.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               65/65536        3640/3670016  ( 0.1%) 
+leaves                 407/65536       13024/2097152  ( 0.6%) 
+leaffaces             1208/65536        2416/131072   ( 1.8%) 
+leafbrushes            145/65536         290/131072   ( 0.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             5161/512000      20644/2048000  ( 1.0%) 
+edges                 2686/256000      10744/1024000  ( 1.0%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             36/32768         360/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           465/65536         930/131072   ( 0.7%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1748700/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        5275/393216   ( 1.3%) 
+LDR ambient table      407/65536        1628/262144   ( 0.6%) 
+HDR ambient table      407/65536        1628/262144   ( 0.6%) 
+LDR leaf ambient      2719/65536       76132/1835008  ( 4.1%) 
+HDR leaf ambient       407/65536       11396/1835008  ( 0.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]        6469/4194304  ( 0.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2597
+Writing c:\users\lukeb\documents\github\tf2_hammer\map\tf2_hammer.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+3 seconds elapsed
+
+
+
+materialPath: E:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\lukeb\Documents\GitHub\TF2_Hammer\Map\tf2_hammer.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity filter_activator_tfteam (-2560.00 -128.00 240.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1536.0 4096.0 222.8)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2048.0 3584.0 222.8)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1024.0 2560.0 -65.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1024.0 2560.0 -138.4)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1024.0 2528.0 584.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1024.0 3040.0 552.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2048.0 2560.0 222.8)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1024.0 1536.0 -65.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_goldrush_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_goldrush_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_goldrush_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_goldrush_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (7645 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 38 texinfos to 34
+Reduced 6 texdatas to 6 (151 bytes to 151)
+Writing C:\Users\lukeb\Documents\GitHub\TF2_Hammer\Map\tf2_hammer.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\lukeb\Documents\GitHub\TF2_Hammer\Map\tf2_hammer.bsp', but we don't own that location. Allowing.
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\users\lukeb\documents\github\tf2_hammer\map\tf2_hammer.bsp
+reading c:\users\lukeb\documents\github\tf2_hammer\map\tf2_hammer.prt
+LoadPortals: couldn't read c:\users\lukeb\documents\github\tf2_hammer\map\tf2_hammer.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\lukeb\documents\github\tf2_hammer\map\tf2_hammer.bsp
+No vis information, direct lighting only.
+1177 faces
+1407407 square feet [202666688.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0141 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                 20/8192          240/98304    ( 0.2%) 
+brushsides             124/65536         992/524288   ( 0.2%) 
+planes                 136/65536        2720/1310720  ( 0.2%) 
+vertexes              1419/65536       17028/786432   ( 2.2%) 
+nodes                  418/65536       13376/2097152  ( 0.6%) 
+texinfos                34/12288        2448/884736   ( 0.3%) 
+texdata                  6/2048          192/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1177/65536       65912/3670016  ( 1.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               80/65536        4480/3670016  ( 0.1%) 
+leaves                 421/65536       13472/2097152  ( 0.6%) 
+leaffaces             1262/65536        2524/131072   ( 1.9%) 
+leafbrushes            148/65536         296/131072   ( 0.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             5371/512000      21484/2048000  ( 1.0%) 
+edges                 2797/256000      11188/1024000  ( 1.1%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             42/32768         420/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           552/65536        1104/131072   ( 0.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1759572/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        5276/393216   ( 1.3%) 
+LDR ambient table      421/65536        1684/262144   ( 0.6%) 
+HDR ambient table      421/65536        1684/262144   ( 0.6%) 
+LDR leaf ambient      2837/65536       79436/1835008  ( 4.3%) 
+HDR leaf ambient       421/65536       11788/1835008  ( 0.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]        7645/4194304  ( 0.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2697
+Writing c:\users\lukeb\documents\github\tf2_hammer\map\tf2_hammer.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+3 seconds elapsed
+
+
+
+materialPath: E:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\lukeb\Documents\GitHub\TF2_Hammer\Map\tf2_hammer.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity filter_activator_tfteam (-2560.00 -128.00 240.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1536.0 4096.0 222.8)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2048.0 3584.0 222.8)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1024.0 2560.0 -65.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1024.0 2560.0 -138.4)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1024.0 2528.0 584.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1024.0 3040.0 552.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2048.0 2560.0 222.8)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1024.0 1536.0 -65.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_goldrush_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_goldrush_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_goldrush_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_goldrush_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (7645 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 38 texinfos to 34
+Reduced 6 texdatas to 6 (151 bytes to 151)
+Writing C:\Users\lukeb\Documents\GitHub\TF2_Hammer\Map\tf2_hammer.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\lukeb\Documents\GitHub\TF2_Hammer\Map\tf2_hammer.bsp', but we don't own that location. Allowing.
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\users\lukeb\documents\github\tf2_hammer\map\tf2_hammer.bsp
+reading c:\users\lukeb\documents\github\tf2_hammer\map\tf2_hammer.prt
+LoadPortals: couldn't read c:\users\lukeb\documents\github\tf2_hammer\map\tf2_hammer.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\lukeb\documents\github\tf2_hammer\map\tf2_hammer.bsp
+No vis information, direct lighting only.
+1177 faces
+1407805 square feet [202724032.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0119 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                 20/8192          240/98304    ( 0.2%) 
+brushsides             124/65536         992/524288   ( 0.2%) 
+planes                 136/65536        2720/1310720  ( 0.2%) 
+vertexes              1419/65536       17028/786432   ( 2.2%) 
+nodes                  418/65536       13376/2097152  ( 0.6%) 
+texinfos                34/12288        2448/884736   ( 0.3%) 
+texdata                  6/2048          192/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1177/65536       65912/3670016  ( 1.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               80/65536        4480/3670016  ( 0.1%) 
+leaves                 421/65536       13472/2097152  ( 0.6%) 
+leaffaces             1262/65536        2524/131072   ( 1.9%) 
+leafbrushes            148/65536         296/131072   ( 0.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             5371/512000      21484/2048000  ( 1.0%) 
+edges                 2797/256000      11188/1024000  ( 1.1%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             42/32768         420/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           552/65536        1104/131072   ( 0.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1760532/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        5276/393216   ( 1.3%) 
+LDR ambient table      421/65536        1684/262144   ( 0.6%) 
+HDR ambient table      421/65536        1684/262144   ( 0.6%) 
+LDR leaf ambient      2835/65536       79380/1835008  ( 4.3%) 
+HDR leaf ambient       421/65536       11788/1835008  ( 0.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]        7645/4194304  ( 0.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2697
+Writing c:\users\lukeb\documents\github\tf2_hammer\map\tf2_hammer.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+3 seconds elapsed
+
+
+
+materialPath: E:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\lukeb\Documents\GitHub\TF2_Hammer\Map\tf2_hammer.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity filter_activator_tfteam (-2560.00 -128.00 240.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1536.0 4096.0 222.8)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2048.0 3584.0 222.8)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1024.0 2560.0 -65.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1024.0 2560.0 -138.4)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1024.0 2528.0 584.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1024.0 3040.0 552.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2048.0 2560.0 222.8)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1024.0 1536.0 -65.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_goldrush_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_goldrush_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_goldrush_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_goldrush_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (8893 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 47 texinfos to 41
+Reduced 6 texdatas to 6 (151 bytes to 151)
+Writing C:\Users\lukeb\Documents\GitHub\TF2_Hammer\Map\tf2_hammer.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\lukeb\Documents\GitHub\TF2_Hammer\Map\tf2_hammer.bsp', but we don't own that location. Allowing.
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\users\lukeb\documents\github\tf2_hammer\map\tf2_hammer.bsp
+reading c:\users\lukeb\documents\github\tf2_hammer\map\tf2_hammer.prt
+LoadPortals: couldn't read c:\users\lukeb\documents\github\tf2_hammer\map\tf2_hammer.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\lukeb\documents\github\tf2_hammer\map\tf2_hammer.bsp
+No vis information, direct lighting only.
+1224 faces
+1408240 square feet [202786640.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0138 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                 24/8192          288/98304    ( 0.3%) 
+brushsides             175/65536        1400/524288   ( 0.3%) 
+planes                 200/65536        4000/1310720  ( 0.3%) 
+vertexes              1472/65536       17664/786432   ( 2.2%) 
+nodes                  465/65536       14880/2097152  ( 0.7%) 
+texinfos                41/12288        2952/884736   ( 0.3%) 
+texdata                  6/2048          192/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1224/65536       68544/3670016  ( 1.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               95/65536        5320/3670016  ( 0.1%) 
+leaves                 468/65536       14976/2097152  ( 0.7%) 
+leaffaces             1383/65536        2766/131072   ( 2.1%) 
+leafbrushes            174/65536         348/131072   ( 0.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             5641/512000      22564/2048000  ( 1.1%) 
+edges                 2944/256000      11776/1024000  ( 1.1%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             43/32768         430/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           570/65536        1140/131072   ( 0.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1793808/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        5276/393216   ( 1.3%) 
+LDR ambient table      468/65536        1872/262144   ( 0.7%) 
+HDR ambient table      468/65536        1872/262144   ( 0.7%) 
+LDR leaf ambient      3093/65536       86604/1835008  ( 4.7%) 
+HDR leaf ambient       468/65536       13104/1835008  ( 0.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]        8893/4194304  ( 0.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2818
+Writing c:\users\lukeb\documents\github\tf2_hammer\map\tf2_hammer.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+3 seconds elapsed
+
+
+
+materialPath: E:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\lukeb\Documents\GitHub\TF2_Hammer\Map\tf2_hammer.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2298.6 676.7 51.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 3107: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2240.0 618.5 51.1)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 3107: 
+
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2303.6 608.0 58.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 3107: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2240.0 544.4 58.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 3107: 
+
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\lukeb\Documents\GitHub\TF2_Hammer\Map\tf2_hammer.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_goldrush_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_goldrush_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_goldrush_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_goldrush_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (20821 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 74 texinfos to 46
+Reduced 6 texdatas to 6 (151 bytes to 151)
+Writing C:\Users\lukeb\Documents\GitHub\TF2_Hammer\Map\tf2_hammer.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\lukeb\Documents\GitHub\TF2_Hammer\Map\tf2_hammer.bsp', but we don't own that location. Allowing.
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\users\lukeb\documents\github\tf2_hammer\map\tf2_hammer.bsp
+reading c:\users\lukeb\documents\github\tf2_hammer\map\tf2_hammer.prt
+ 135 portalclusters
+ 393 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 13 visible clusters (0.08%)
+Total clusters visible: 16108
+Average clusters visible: 119
+Building PAS...
+Average clusters audible: 134
+visdatasize:5678  compressed from 6480
+writing c:\users\lukeb\documents\github\tf2_hammer\map\tf2_hammer.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\lukeb\documents\github\tf2_hammer\map\tf2_hammer.bsp', but we don't own that location. Allowing.
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\lukeb\documents\github\tf2_hammer\map\tf2_hammer.bsp
+665 faces
+712790 square feet [102641784.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+665 patches before subdivision
+33699 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2627153, max 552
+transfer lists:  20.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(80277, 51305, 42218)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(6758, 2579, 1921)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(627, 132, 91)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(147, 12, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(19, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(6, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0096 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                 61/8192          732/98304    ( 0.7%) 
+brushsides             435/65536        3480/524288   ( 0.7%) 
+planes                 338/65536        6760/1310720  ( 0.5%) 
+vertexes               855/65536       10260/786432   ( 1.3%) 
+nodes                  313/65536       10016/2097152  ( 0.5%) 
+texinfos                46/12288        3312/884736   ( 0.4%) 
+texdata                  6/2048          192/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  665/65536       37240/3670016  ( 1.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              150/65536        8400/3670016  ( 0.2%) 
+leaves                 316/65536       10112/2097152  ( 0.5%) 
+leaffaces              728/65536        1456/131072   ( 1.1%) 
+leafbrushes            240/65536         480/131072   ( 0.4%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             3578/512000      14312/2048000  ( 0.7%) 
+edges                 1898/256000       7592/1024000  ( 0.7%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             41/32768         410/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           588/65536        1176/131072   ( 0.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      884840/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        5678/16777216 ( 0.0%) 
+entdata               [variable]        5290/393216   ( 1.3%) 
+LDR ambient table      316/65536        1264/262144   ( 0.5%) 
+HDR ambient table      316/65536        1264/262144   ( 0.5%) 
+LDR leaf ambient      1927/65536       53956/1835008  ( 2.9%) 
+HDR leaf ambient       316/65536        8848/1835008  ( 0.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]       20821/4194304  ( 0.5%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1654
+Writing c:\users\lukeb\documents\github\tf2_hammer\map\tf2_hammer.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+3 seconds elapsed
+
+
+
+materialPath: E:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\lukeb\Documents\GitHub\TF2_Hammer\Map\tf2_hammer.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2890.5 -672.0 51.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 2179: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2948.7 -613.4 51.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 2179: 
+
+0...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\lukeb\Documents\GitHub\TF2_Hammer\Map\tf2_hammer.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_goldrush_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_goldrush_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_goldrush_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_goldrush_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (22421 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 76 texinfos to 49
+Reduced 6 texdatas to 6 (151 bytes to 151)
+Writing C:\Users\lukeb\Documents\GitHub\TF2_Hammer\Map\tf2_hammer.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\lukeb\Documents\GitHub\TF2_Hammer\Map\tf2_hammer.bsp', but we don't own that location. Allowing.
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\users\lukeb\documents\github\tf2_hammer\map\tf2_hammer.bsp
+reading c:\users\lukeb\documents\github\tf2_hammer\map\tf2_hammer.prt
+ 144 portalclusters
+ 417 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 22 visible clusters (0.12%)
+Total clusters visible: 17986
+Average clusters visible: 124
+Building PAS...
+Average clusters audible: 143
+visdatasize:6336  compressed from 6912
+writing c:\users\lukeb\documents\github\tf2_hammer\map\tf2_hammer.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\lukeb\documents\github\tf2_hammer\map\tf2_hammer.bsp', but we don't own that location. Allowing.
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\lukeb\documents\github\tf2_hammer\map\tf2_hammer.bsp
+681 faces
+713687 square feet [102770952.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+681 patches before subdivision
+33687 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2611236, max 551
+transfer lists:  19.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(79326, 51076, 42360)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(6874, 2595, 1958)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(659, 135, 93)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(153, 12, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(20, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(6, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0075 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                 65/8192          780/98304    ( 0.8%) 
+brushsides             462/65536        3696/524288   ( 0.7%) 
+planes                 348/65536        6960/1310720  ( 0.5%) 
+vertexes               892/65536       10704/786432   ( 1.4%) 
+nodes                  335/65536       10720/2097152  ( 0.5%) 
+texinfos                49/12288        3528/884736   ( 0.4%) 
+texdata                  6/2048          192/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  681/65536       38136/3670016  ( 1.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              166/65536        9296/3670016  ( 0.3%) 
+leaves                 338/65536       10816/2097152  ( 0.5%) 
+leaffaces              735/65536        1470/131072   ( 1.1%) 
+leafbrushes            249/65536         498/131072   ( 0.4%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             3721/512000      14884/2048000  ( 0.7%) 
+edges                 1978/256000       7912/1024000  ( 0.8%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             37/32768         370/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           555/65536        1110/131072   ( 0.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      887768/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        6336/16777216 ( 0.0%) 
+entdata               [variable]        5290/393216   ( 1.3%) 
+LDR ambient table      338/65536        1352/262144   ( 0.5%) 
+HDR ambient table      338/65536        1352/262144   ( 0.5%) 
+LDR leaf ambient      2053/65536       57484/1835008  ( 3.1%) 
+HDR leaf ambient       338/65536        9464/1835008  ( 0.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]       22421/4194304  ( 0.5%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1699
+Writing c:\users\lukeb\documents\github\tf2_hammer\map\tf2_hammer.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+3 seconds elapsed
+
+
+
+materialPath: E:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\lukeb\Documents\GitHub\TF2_Hammer\Map\tf2_hammer.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2757.7 -645.0 51.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 2179: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2944.0 -704.0 48.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 2179: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2935.9 -568.6 51.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 2179: 
+
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2367.6 512.0 58.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 4358: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2304.0 448.4 58.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 4358: 
+
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\lukeb\Documents\GitHub\TF2_Hammer\Map\tf2_hammer.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_goldrush_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_goldrush_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_goldrush_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_goldrush_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (46453 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 137 texinfos to 89
+Reduced 6 texdatas to 6 (151 bytes to 151)
+Writing C:\Users\lukeb\Documents\GitHub\TF2_Hammer\Map\tf2_hammer.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\lukeb\Documents\GitHub\TF2_Hammer\Map\tf2_hammer.bsp', but we don't own that location. Allowing.
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\users\lukeb\documents\github\tf2_hammer\map\tf2_hammer.bsp
+reading c:\users\lukeb\documents\github\tf2_hammer\map\tf2_hammer.prt
+ 276 portalclusters
+ 853 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 294 visible clusters (0.56%)
+Total clusters visible: 52876
+Average clusters visible: 191
+Building PAS...
+Average clusters audible: 275
+visdatasize:21640  compressed from 22080
+writing c:\users\lukeb\documents\github\tf2_hammer\map\tf2_hammer.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\lukeb\documents\github\tf2_hammer\map\tf2_hammer.bsp', but we don't own that location. Allowing.
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\lukeb\documents\github\tf2_hammer\map\tf2_hammer.bsp
+1018 faces
+786171 square feet [113208624.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+1018 patches before subdivision
+45096 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 3377278, max 504
+transfer lists:  25.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(238885, 116141, 88241)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(24896, 6463, 4898)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(4136, 436, 286)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(794, 37, 19)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(167, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(38, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(9, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0096 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                131/8192         1572/98304    ( 1.6%) 
+brushsides             902/65536        7216/524288   ( 1.4%) 
+planes                 558/65536       11160/1310720  ( 0.9%) 
+vertexes              1384/65536       16608/786432   ( 2.1%) 
+nodes                  585/65536       18720/2097152  ( 0.9%) 
+texinfos                89/12288        6408/884736   ( 0.7%) 
+texdata                  6/2048          192/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1018/65536       57008/3670016  ( 1.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              377/65536       21112/3670016  ( 0.6%) 
+leaves                 588/65536       18816/2097152  ( 0.9%) 
+leaffaces             1086/65536        2172/131072   ( 1.7%) 
+leafbrushes            362/65536         724/131072   ( 0.6%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             6169/512000      24676/2048000  ( 1.2%) 
+edges                 3387/256000      13548/1024000  ( 1.3%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             63/32768         630/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           963/65536        1926/131072   ( 1.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1109824/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       21640/16777216 ( 0.1%) 
+entdata               [variable]        5280/393216   ( 1.3%) 
+LDR ambient table      588/65536        2352/262144   ( 0.9%) 
+HDR ambient table      588/65536        2352/262144   ( 0.9%) 
+LDR leaf ambient      3754/65536      105112/1835008  ( 5.7%) 
+HDR leaf ambient       588/65536       16464/1835008  ( 0.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]       46453/4194304  ( 1.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2630
+Writing c:\users\lukeb\documents\github\tf2_hammer\map\tf2_hammer.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+5 seconds elapsed
+
+
+
+materialPath: E:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\lukeb\Documents\GitHub\TF2_Hammer\Map\tf2_hammer.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_player_teamspawn (-5072.00 352.00 -50.43) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1536.0 4096.0 24.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2048.0 3584.0 24.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1024.0 2528.0 -304.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1024.0 3040.0 -272.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1024.0 2560.0 520.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2048.0 2560.0 24.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1024.0 1536.0 -304.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1024.0 1536.0 520.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_goldrush_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_goldrush_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_goldrush_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_goldrush_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (45765 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 137 texinfos to 103
+Reduced 6 texdatas to 6 (151 bytes to 151)
+Writing C:\Users\lukeb\Documents\GitHub\TF2_Hammer\Map\tf2_hammer.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\lukeb\Documents\GitHub\TF2_Hammer\Map\tf2_hammer.bsp', but we don't own that location. Allowing.
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\users\lukeb\documents\github\tf2_hammer\map\tf2_hammer.bsp
+reading c:\users\lukeb\documents\github\tf2_hammer\map\tf2_hammer.prt
+LoadPortals: couldn't read c:\users\lukeb\documents\github\tf2_hammer\map\tf2_hammer.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\lukeb\documents\github\tf2_hammer\map\tf2_hammer.bsp
+No vis information, direct lighting only.
+1516 faces
+889290 square feet [128057896.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0140 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                129/8192         1548/98304    ( 1.6%) 
+brushsides             890/65536        7120/524288   ( 1.4%) 
+planes                 556/65536       11120/1310720  ( 0.8%) 
+vertexes              1905/65536       22860/786432   ( 2.9%) 
+nodes                  754/65536       24128/2097152  ( 1.2%) 
+texinfos               103/12288        7416/884736   ( 0.8%) 
+texdata                  6/2048          192/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1516/65536       84896/3670016  ( 2.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              431/65536       24136/3670016  ( 0.7%) 
+leaves                 757/65536       24224/2097152  ( 1.2%) 
+leaffaces             1592/65536        3184/131072   ( 2.4%) 
+leafbrushes            282/65536         564/131072   ( 0.4%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             8563/512000      34252/2048000  ( 1.7%) 
+edges                 4635/256000      18540/1024000  ( 1.8%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             81/32768         810/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1197/65536        2394/131072   ( 1.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     2014808/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        5282/393216   ( 1.3%) 
+LDR ambient table      757/65536        3028/262144   ( 1.2%) 
+HDR ambient table      757/65536        3028/262144   ( 1.2%) 
+LDR leaf ambient      5547/65536      155316/1835008  ( 8.5%) 
+HDR leaf ambient       757/65536       21196/1835008  ( 1.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]       45765/4194304  ( 1.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 3816
+Writing c:\users\lukeb\documents\github\tf2_hammer\map\tf2_hammer.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+5 seconds elapsed
+
+
+
+materialPath: E:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\lukeb\Documents\GitHub\TF2_Hammer\Map\tf2_hammer.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2757.7 -645.0 51.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 2179: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2944.0 -704.0 48.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 2179: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2935.9 -568.6 51.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 2179: 
+
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2367.6 512.0 58.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 4358: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2304.0 448.4 58.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 4358: 
+
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\lukeb\Documents\GitHub\TF2_Hammer\Map\tf2_hammer.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_goldrush_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_goldrush_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_goldrush_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_goldrush_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (46517 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 137 texinfos to 93
+Reduced 6 texdatas to 6 (151 bytes to 151)
+Writing C:\Users\lukeb\Documents\GitHub\TF2_Hammer\Map\tf2_hammer.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\lukeb\Documents\GitHub\TF2_Hammer\Map\tf2_hammer.bsp', but we don't own that location. Allowing.
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\users\lukeb\documents\github\tf2_hammer\map\tf2_hammer.bsp
+reading c:\users\lukeb\documents\github\tf2_hammer\map\tf2_hammer.prt
+ 290 portalclusters
+ 943 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 234 visible clusters (0.41%)
+Total clusters visible: 56948
+Average clusters visible: 196
+Building PAS...
+Average clusters audible: 289
+visdatasize:23791  compressed from 23200
+writing c:\users\lukeb\documents\github\tf2_hammer\map\tf2_hammer.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\lukeb\documents\github\tf2_hammer\map\tf2_hammer.bsp', but we don't own that location. Allowing.
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\lukeb\documents\github\tf2_hammer\map\tf2_hammer.bsp
+1064 faces
+812595 square feet [117013760.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+1064 patches before subdivision
+46566 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 4210961, max 525
+transfer lists:  32.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(246773, 123604, 95043)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(25625, 7039, 5494)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(4270, 515, 355)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(821, 45, 26)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(171, 4, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(39, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(9, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0099 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                131/8192         1572/98304    ( 1.6%) 
+brushsides             902/65536        7216/524288   ( 1.4%) 
+planes                 560/65536       11200/1310720  ( 0.9%) 
+vertexes              1405/65536       16860/786432   ( 2.1%) 
+nodes                  605/65536       19360/2097152  ( 0.9%) 
+texinfos                93/12288        6696/884736   ( 0.8%) 
+texdata                  6/2048          192/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1064/65536       59584/3670016  ( 1.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              420/65536       23520/3670016  ( 0.6%) 
+leaves                 608/65536       19456/2097152  ( 0.9%) 
+leaffaces             1125/65536        2250/131072   ( 1.7%) 
+leafbrushes            376/65536         752/131072   ( 0.6%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             6487/512000      25948/2048000  ( 1.3%) 
+edges                 3529/256000      14116/1024000  ( 1.4%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             56/32768         560/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           828/65536        1656/131072   ( 1.3%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1175868/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       23791/16777216 ( 0.1%) 
+entdata               [variable]        5281/393216   ( 1.3%) 
+LDR ambient table      608/65536        2432/262144   ( 0.9%) 
+HDR ambient table      608/65536        2432/262144   ( 0.9%) 
+LDR leaf ambient      4037/65536      113036/1835008  ( 6.2%) 
+HDR leaf ambient       608/65536       17024/1835008  ( 0.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]       46517/4194304  ( 1.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2686
+Writing c:\users\lukeb\documents\github\tf2_hammer\map\tf2_hammer.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+5 seconds elapsed
+
+
+
+materialPath: E:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\lukeb\Documents\GitHub\TF2_Hammer\Map\tf2_hammer.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\lukeb\Documents\GitHub\TF2_Hammer\Map\tf2_hammer.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_goldrush_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_goldrush_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_goldrush_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_goldrush_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (118133 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 240 texinfos to 168
+Reduced 7 texdatas to 7 (176 bytes to 176)
+Writing C:\Users\lukeb\Documents\GitHub\TF2_Hammer\Map\tf2_hammer.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\lukeb\Documents\GitHub\TF2_Hammer\Map\tf2_hammer.bsp', but we don't own that location. Allowing.
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\users\lukeb\documents\github\tf2_hammer\map\tf2_hammer.bsp
+reading c:\users\lukeb\documents\github\tf2_hammer\map\tf2_hammer.prt
+ 727 portalclusters
+2314 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 2603 visible clusters (0.96%)
+Total clusters visible: 270510
+Average clusters visible: 372
+Building PAS...
+Average clusters audible: 718
+visdatasize:131259  compressed from 139584
+writing c:\users\lukeb\documents\github\tf2_hammer\map\tf2_hammer.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\lukeb\documents\github\tf2_hammer\map\tf2_hammer.bsp', but we don't own that location. Allowing.
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+1 minute, 22 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\lukeb\documents\github\tf2_hammer\map\tf2_hammer.bsp
+2348 faces
+900546 square feet [129678672.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2348 patches before subdivision
+73738 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 5532569, max 643
+transfer lists:  42.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(506633, 230339, 192611)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(62769, 14663, 13245)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(10088, 1077, 1047)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1927, 90, 90)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(417, 8, 8)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(101, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(26, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(7, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0123 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                331/8192         3972/98304    ( 4.0%) 
+brushsides            2219/65536       17752/524288   ( 3.4%) 
+planes                1118/65536       22360/1310720  ( 1.7%) 
+vertexes              3393/65536       40716/786432   ( 5.2%) 
+nodes                 1416/65536       45312/2097152  ( 2.2%) 
+texinfos               168/12288       12096/884736   ( 1.4%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2348/65536      131488/3670016  ( 3.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1039/65536       58184/3670016  ( 1.6%) 
+leaves                1419/65536       45408/2097152  ( 2.2%) 
+leaffaces             2574/65536        5148/131072   ( 3.9%) 
+leafbrushes            785/65536        1570/131072   ( 1.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            15335/512000      61340/2048000  ( 3.0%) 
+edges                 8493/256000      33972/1024000  ( 3.3%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            249/32768        2490/327680   ( 0.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          3612/65536        7224/131072   ( 5.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1610012/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      131259/16777216 ( 0.8%) 
+entdata               [variable]        7061/393216   ( 1.8%) 
+LDR ambient table     1419/65536        5676/262144   ( 2.2%) 
+HDR ambient table     1419/65536        5676/262144   ( 2.2%) 
+LDR leaf ambient      9423/65536      263844/1835008  (14.4%) 
+HDR leaf ambient      1419/65536       39732/1835008  ( 2.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]      118133/4194304  ( 2.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 6492
+Writing c:\users\lukeb\documents\github\tf2_hammer\map\tf2_hammer.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+10 seconds elapsed
+
+
+
+materialPath: E:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\lukeb\Documents\GitHub\TF2_Hammer\Map\tf2_hammer.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\lukeb\Documents\GitHub\TF2_Hammer\Map\tf2_hammer.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_goldrush_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_goldrush_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_goldrush_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_goldrush_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (120357 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 252 texinfos to 180
+Reduced 7 texdatas to 7 (176 bytes to 176)
+Writing C:\Users\lukeb\Documents\GitHub\TF2_Hammer\Map\tf2_hammer.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\lukeb\Documents\GitHub\TF2_Hammer\Map\tf2_hammer.bsp', but we don't own that location. Allowing.
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\users\lukeb\documents\github\tf2_hammer\map\tf2_hammer.bsp
+reading c:\users\lukeb\documents\github\tf2_hammer\map\tf2_hammer.prt
+ 737 portalclusters
+2357 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 2670 visible clusters (0.96%)
+Total clusters visible: 277463
+Average clusters visible: 376
+Building PAS...
+Average clusters audible: 728
+visdatasize:136370  compressed from 141504
+writing c:\users\lukeb\documents\github\tf2_hammer\map\tf2_hammer.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\lukeb\documents\github\tf2_hammer\map\tf2_hammer.bsp', but we don't own that location. Allowing.
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+1 minute, 23 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\lukeb\documents\github\tf2_hammer\map\tf2_hammer.bsp
+2380 faces
+901634 square feet [129835328.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2380 patches before subdivision
+73746 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 5517084, max 646
+transfer lists:  42.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(511522, 230771, 191841)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(64684, 14781, 13164)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(10711, 1100, 1038)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(2084, 93, 89)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(457, 8, 8)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(110, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(28, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(8, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0124 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                337/8192         4044/98304    ( 4.1%) 
+brushsides            2255/65536       18040/524288   ( 3.4%) 
+planes                1130/65536       22600/1310720  ( 1.7%) 
+vertexes              3438/65536       41256/786432   ( 5.2%) 
+nodes                 1433/65536       45856/2097152  ( 2.2%) 
+texinfos               180/12288       12960/884736   ( 1.5%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2380/65536      133280/3670016  ( 3.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1064/65536       59584/3670016  ( 1.6%) 
+leaves                1436/65536       45952/2097152  ( 2.2%) 
+leaffaces             2608/65536        5216/131072   ( 4.0%) 
+leafbrushes            792/65536        1584/131072   ( 1.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            15587/512000      62348/2048000  ( 3.0%) 
+edges                 8635/256000      34540/1024000  ( 3.4%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            248/32768        2480/327680   ( 0.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          3624/65536        7248/131072   ( 5.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1615072/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      136370/16777216 ( 0.8%) 
+entdata               [variable]        7061/393216   ( 1.8%) 
+LDR ambient table     1436/65536        5744/262144   ( 2.2%) 
+HDR ambient table     1436/65536        5744/262144   ( 2.2%) 
+LDR leaf ambient      9598/65536      268744/1835008  (14.6%) 
+HDR leaf ambient      1436/65536       40208/1835008  ( 2.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]      120357/4194304  ( 2.9%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 6580
+Writing c:\users\lukeb\documents\github\tf2_hammer\map\tf2_hammer.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+11 seconds elapsed
+
+
+
+materialPath: E:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\lukeb\Documents\GitHub\TF2_Hammer\Map\tf2_hammer.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity light_environment (-2832.00 0.00 256.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_goldrush_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_goldrush_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_goldrush_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_goldrush_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (119733 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 252 texinfos to 194
+Reduced 7 texdatas to 7 (176 bytes to 176)
+Writing C:\Users\lukeb\Documents\GitHub\TF2_Hammer\Map\tf2_hammer.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\lukeb\Documents\GitHub\TF2_Hammer\Map\tf2_hammer.bsp', but we don't own that location. Allowing.
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\users\lukeb\documents\github\tf2_hammer\map\tf2_hammer.bsp
+reading c:\users\lukeb\documents\github\tf2_hammer\map\tf2_hammer.prt
+LoadPortals: couldn't read c:\users\lukeb\documents\github\tf2_hammer\map\tf2_hammer.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\lukeb\documents\github\tf2_hammer\map\tf2_hammer.bsp
+No vis information, direct lighting only.
+2878 faces
+1093328 square feet [157439232.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0196 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                335/8192         4020/98304    ( 4.1%) 
+brushsides            2243/65536       17944/524288   ( 3.4%) 
+planes                1128/65536       22560/1310720  ( 1.7%) 
+vertexes              3827/65536       45924/786432   ( 5.8%) 
+nodes                 1662/65536       53184/2097152  ( 2.5%) 
+texinfos               194/12288       13968/884736   ( 1.6%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2878/65536      161168/3670016  ( 4.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1149/65536       64344/3670016  ( 1.8%) 
+leaves                1665/65536       53280/2097152  ( 2.5%) 
+leaffaces             3077/65536        6154/131072   ( 4.7%) 
+leafbrushes            607/65536        1214/131072   ( 0.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            17980/512000      71920/2048000  ( 3.5%) 
+edges                 9838/256000      39352/1024000  ( 3.8%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            281/32768        2810/327680   ( 0.9%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          3858/65536        7716/131072   ( 5.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     2469112/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        7061/393216   ( 1.8%) 
+LDR ambient table     1665/65536        6660/262144   ( 2.5%) 
+HDR ambient table     1665/65536        6660/262144   ( 2.5%) 
+LDR leaf ambient     13080/65536      366240/1835008  (20.0%) 
+HDR leaf ambient      1665/65536       46620/1835008  ( 2.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]      119733/4194304  ( 2.9%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 7642
+Writing c:\users\lukeb\documents\github\tf2_hammer\map\tf2_hammer.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+7 seconds elapsed
