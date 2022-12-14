@@ -2723,3 +2723,578 @@ Total triangle count: 7728
 Writing c:\users\b011692i\documents\github\tf2_hammer\map\tf2_hammer.bsp
 ZIP Output overshot buffer estimate: Estimated 0, actual 54
 14 seconds elapsed
+
+
+
+materialPath: C:\Programs\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\b011692i\Documents\GitHub\TF2_Hammer\Map\tf2_hammer.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity light_environment (-2832.00 0.00 256.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_goldrush_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_goldrush_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_goldrush_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_goldrush_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (124285 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 274 texinfos to 209
+Reduced 9 texdatas to 9 (216 bytes to 216)
+Writing C:\Users\b011692i\Documents\GitHub\TF2_Hammer\Map\tf2_hammer.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\b011692i\Documents\GitHub\TF2_Hammer\Map\tf2_hammer.bsp', but we don't own that location. Allowing.
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+16 threads
+reading c:\users\b011692i\documents\github\tf2_hammer\map\tf2_hammer.bsp
+reading c:\users\b011692i\documents\github\tf2_hammer\map\tf2_hammer.prt
+LoadPortals: couldn't read c:\users\b011692i\documents\github\tf2_hammer\map\tf2_hammer.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\b011692i\documents\github\tf2_hammer\map\tf2_hammer.bsp
+No vis information, direct lighting only.
+2914 faces
+1107473 square feet [159476112.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+7 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0187 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   8/1024          384/49152    ( 0.8%) 
+brushes                344/8192         4128/98304    ( 4.2%) 
+brushsides            2297/65536       18376/524288   ( 3.5%) 
+planes                1158/65536       23160/1310720  ( 1.8%) 
+vertexes              3872/65536       46464/786432   ( 5.9%) 
+nodes                 1690/65536       54080/2097152  ( 2.6%) 
+texinfos               209/12288       15048/884736   ( 1.7%) 
+texdata                  9/2048          288/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2914/65536      163184/3670016  ( 4.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1191/65536       66696/3670016  ( 1.8%) 
+leaves                1699/65536       54368/2097152  ( 2.6%) 
+leaffaces             3103/65536        6206/131072   ( 4.7%) 
+leafbrushes            614/65536        1228/131072   ( 0.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            18306/512000      73224/2048000  ( 3.6%) 
+edges                10015/256000      40060/1024000  ( 3.9%) 
+LDR worldlights          7/8192          616/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            285/32768        2850/327680   ( 0.9%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          3948/65536        7896/131072   ( 6.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     2467860/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       12184/393216   ( 3.1%) 
+LDR ambient table     1699/65536        6796/262144   ( 2.6%) 
+HDR ambient table     1699/65536        6796/262144   ( 2.6%) 
+LDR leaf ambient     13219/65536      370132/1835008  (20.2%) 
+HDR leaf ambient      1699/65536       47572/1835008  ( 2.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]      124285/4194304  ( 3.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 7728
+Writing c:\users\b011692i\documents\github\tf2_hammer\map\tf2_hammer.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+12 seconds elapsed
+
+
+
+materialPath: C:\Programs\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\b011692i\Documents\GitHub\TF2_Hammer\Map\tf2_hammer.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity item_ammopack_small (-4416.00 784.00 73.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_goldrush_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_goldrush_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_goldrush_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_goldrush_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (124581 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 274 texinfos to 209
+Reduced 9 texdatas to 9 (216 bytes to 216)
+Writing C:\Users\b011692i\Documents\GitHub\TF2_Hammer\Map\tf2_hammer.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\b011692i\Documents\GitHub\TF2_Hammer\Map\tf2_hammer.bsp', but we don't own that location. Allowing.
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+16 threads
+reading c:\users\b011692i\documents\github\tf2_hammer\map\tf2_hammer.bsp
+reading c:\users\b011692i\documents\github\tf2_hammer\map\tf2_hammer.prt
+LoadPortals: couldn't read c:\users\b011692i\documents\github\tf2_hammer\map\tf2_hammer.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\b011692i\documents\github\tf2_hammer\map\tf2_hammer.bsp
+No vis information, direct lighting only.
+2912 faces
+1107519 square feet [159482848.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+7 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0109 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   8/1024          384/49152    ( 0.8%) 
+brushes                345/8192         4140/98304    ( 4.2%) 
+brushsides            2303/65536       18424/524288   ( 3.5%) 
+planes                1158/65536       23160/1310720  ( 1.8%) 
+vertexes              3871/65536       46452/786432   ( 5.9%) 
+nodes                 1691/65536       54112/2097152  ( 2.6%) 
+texinfos               209/12288       15048/884736   ( 1.7%) 
+texdata                  9/2048          288/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2912/65536      163072/3670016  ( 4.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1192/65536       66752/3670016  ( 1.8%) 
+leaves                1700/65536       54400/2097152  ( 2.6%) 
+leaffaces             3100/65536        6200/131072   ( 4.7%) 
+leafbrushes            615/65536        1230/131072   ( 0.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            18296/512000      73184/2048000  ( 3.6%) 
+edges                10015/256000      40060/1024000  ( 3.9%) 
+LDR worldlights          7/8192          616/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            285/32768        2850/327680   ( 0.9%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          3942/65536        7884/131072   ( 6.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     2467888/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       13492/393216   ( 3.4%) 
+LDR ambient table     1700/65536        6800/262144   ( 2.6%) 
+HDR ambient table     1700/65536        6800/262144   ( 2.6%) 
+LDR leaf ambient     13196/65536      369488/1835008  (20.1%) 
+HDR leaf ambient      1700/65536       47600/1835008  ( 2.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]      124581/4194304  ( 3.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 7718
+Writing c:\users\b011692i\documents\github\tf2_hammer\map\tf2_hammer.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+9 seconds elapsed
+
+
+
+materialPath: C:\Programs\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\b011692i\Documents\GitHub\TF2_Hammer\Map\tf2_hammer.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity item_ammopack_small (-4416.00 784.00 73.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_goldrush_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_goldrush_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_goldrush_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_goldrush_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (124581 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 274 texinfos to 209
+Reduced 9 texdatas to 9 (216 bytes to 216)
+Writing C:\Users\b011692i\Documents\GitHub\TF2_Hammer\Map\tf2_hammer.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\b011692i\Documents\GitHub\TF2_Hammer\Map\tf2_hammer.bsp', but we don't own that location. Allowing.
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+16 threads
+reading c:\users\b011692i\documents\github\tf2_hammer\map\tf2_hammer.bsp
+reading c:\users\b011692i\documents\github\tf2_hammer\map\tf2_hammer.prt
+LoadPortals: couldn't read c:\users\b011692i\documents\github\tf2_hammer\map\tf2_hammer.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\b011692i\documents\github\tf2_hammer\map\tf2_hammer.bsp
+No vis information, direct lighting only.
+2912 faces
+1107519 square feet [159482848.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+7 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0117 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   8/1024          384/49152    ( 0.8%) 
+brushes                345/8192         4140/98304    ( 4.2%) 
+brushsides            2303/65536       18424/524288   ( 3.5%) 
+planes                1158/65536       23160/1310720  ( 1.8%) 
+vertexes              3871/65536       46452/786432   ( 5.9%) 
+nodes                 1691/65536       54112/2097152  ( 2.6%) 
+texinfos               209/12288       15048/884736   ( 1.7%) 
+texdata                  9/2048          288/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2912/65536      163072/3670016  ( 4.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1192/65536       66752/3670016  ( 1.8%) 
+leaves                1700/65536       54400/2097152  ( 2.6%) 
+leaffaces             3100/65536        6200/131072   ( 4.7%) 
+leafbrushes            615/65536        1230/131072   ( 0.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            18296/512000      73184/2048000  ( 3.6%) 
+edges                10015/256000      40060/1024000  ( 3.9%) 
+LDR worldlights          7/8192          616/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            285/32768        2850/327680   ( 0.9%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          3942/65536        7884/131072   ( 6.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     2467888/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       13613/393216   ( 3.5%) 
+LDR ambient table     1700/65536        6800/262144   ( 2.6%) 
+HDR ambient table     1700/65536        6800/262144   ( 2.6%) 
+LDR leaf ambient     13196/65536      369488/1835008  (20.1%) 
+HDR leaf ambient      1700/65536       47600/1835008  ( 2.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]      124581/4194304  ( 3.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 7718
+Writing c:\users\b011692i\documents\github\tf2_hammer\map\tf2_hammer.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+9 seconds elapsed
+
+
+
+materialPath: C:\Programs\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\b011692i\Documents\GitHub\TF2_Hammer\Map\tf2_hammer.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity item_ammopack_small (-4416.00 784.00 73.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_goldrush_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_goldrush_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_goldrush_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_goldrush_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (124581 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 274 texinfos to 209
+Reduced 9 texdatas to 9 (216 bytes to 216)
+Writing C:\Users\b011692i\Documents\GitHub\TF2_Hammer\Map\tf2_hammer.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\b011692i\Documents\GitHub\TF2_Hammer\Map\tf2_hammer.bsp', but we don't own that location. Allowing.
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+16 threads
+reading c:\users\b011692i\documents\github\tf2_hammer\map\tf2_hammer.bsp
+reading c:\users\b011692i\documents\github\tf2_hammer\map\tf2_hammer.prt
+LoadPortals: couldn't read c:\users\b011692i\documents\github\tf2_hammer\map\tf2_hammer.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\b011692i\documents\github\tf2_hammer\map\tf2_hammer.bsp
+No vis information, direct lighting only.
+2912 faces
+1107519 square feet [159482848.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+7 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0116 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   8/1024          384/49152    ( 0.8%) 
+brushes                345/8192         4140/98304    ( 4.2%) 
+brushsides            2303/65536       18424/524288   ( 3.5%) 
+planes                1158/65536       23160/1310720  ( 1.8%) 
+vertexes              3871/65536       46452/786432   ( 5.9%) 
+nodes                 1691/65536       54112/2097152  ( 2.6%) 
+texinfos               209/12288       15048/884736   ( 1.7%) 
+texdata                  9/2048          288/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2912/65536      163072/3670016  ( 4.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1192/65536       66752/3670016  ( 1.8%) 
+leaves                1700/65536       54400/2097152  ( 2.6%) 
+leaffaces             3100/65536        6200/131072   ( 4.7%) 
+leafbrushes            615/65536        1230/131072   ( 0.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            18296/512000      73184/2048000  ( 3.6%) 
+edges                10015/256000      40060/1024000  ( 3.9%) 
+LDR worldlights          7/8192          616/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            285/32768        2850/327680   ( 0.9%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          3942/65536        7884/131072   ( 6.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     2467888/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       13618/393216   ( 3.5%) 
+LDR ambient table     1700/65536        6800/262144   ( 2.6%) 
+HDR ambient table     1700/65536        6800/262144   ( 2.6%) 
+LDR leaf ambient     13196/65536      369488/1835008  (20.1%) 
+HDR leaf ambient      1700/65536       47600/1835008  ( 2.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]      124581/4194304  ( 3.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 7718
+Writing c:\users\b011692i\documents\github\tf2_hammer\map\tf2_hammer.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+9 seconds elapsed
+
+
+
+materialPath: C:\Programs\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\b011692i\Documents\GitHub\TF2_Hammer\Map\tf2_hammer.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity item_ammopack_medium (-2384.00 -1232.00 -119.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_goldrush_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_goldrush_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_goldrush_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_goldrush_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (139572 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 296 texinfos to 214
+Reduced 9 texdatas to 9 (216 bytes to 216)
+Writing C:\Users\b011692i\Documents\GitHub\TF2_Hammer\Map\tf2_hammer.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\b011692i\Documents\GitHub\TF2_Hammer\Map\tf2_hammer.bsp', but we don't own that location. Allowing.
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+16 threads
+reading c:\users\b011692i\documents\github\tf2_hammer\map\tf2_hammer.bsp
+reading c:\users\b011692i\documents\github\tf2_hammer\map\tf2_hammer.prt
+LoadPortals: couldn't read c:\users\b011692i\documents\github\tf2_hammer\map\tf2_hammer.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\b011692i\documents\github\tf2_hammer\map\tf2_hammer.bsp
+No vis information, direct lighting only.
+2933 faces
+1121662 square feet [161519376.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+10 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0114 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  14/1024          672/49152    ( 1.4%) 
+brushes                383/8192         4596/98304    ( 4.7%) 
+brushsides            2564/65536       20512/524288   ( 3.9%) 
+planes                1160/65536       23200/1310720  ( 1.8%) 
+vertexes              3892/65536       46704/786432   ( 5.9%) 
+nodes                 1701/65536       54432/2097152  ( 2.6%) 
+texinfos               214/12288       15408/884736   ( 1.7%) 
+texdata                  9/2048          288/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2933/65536      164248/3670016  ( 4.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1231/65536       68936/3670016  ( 1.9%) 
+leaves                1716/65536       54912/2097152  ( 2.6%) 
+leaffaces             3115/65536        6230/131072   ( 4.8%) 
+leafbrushes            674/65536        1348/131072   ( 1.0%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            18533/512000      74132/2048000  ( 3.6%) 
+edges                10141/256000      40564/1024000  ( 4.0%) 
+LDR worldlights         10/8192          880/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            288/32768        2880/327680   ( 0.9%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          3990/65536        7980/131072   ( 6.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     2415984/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       18506/393216   ( 4.7%) 
+LDR ambient table     1716/65536        6864/262144   ( 2.6%) 
+HDR ambient table     1716/65536        6864/262144   ( 2.6%) 
+LDR leaf ambient     13184/65536      369152/1835008  (20.1%) 
+HDR leaf ambient      1716/65536       48048/1835008  ( 2.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]      139572/4194304  ( 3.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 7756
+Writing c:\users\b011692i\documents\github\tf2_hammer\map\tf2_hammer.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+9 seconds elapsed
