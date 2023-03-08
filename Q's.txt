@@ -1,5 +1,4 @@
-- Should other game analysis be in the design doc?
-- Week 1 workshop slides
+
 
 Peril
-- Should the playtesting stuff be in the design doc?
+- Should the playtesting stuff be in the design doc? - Yes, pretty much all forum stuff too
