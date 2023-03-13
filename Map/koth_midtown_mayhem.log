@@ -1,0 +1,156 @@
+
+
+
+materialPath: E:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\lukeb\Documents\GitHub\TF2_Hammer\Map\koth_midtown_mayhem.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\lukeb\Documents\GitHub\TF2_Hammer\Map\koth_midtown_mayhem.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_goldrush_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_goldrush_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_goldrush_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_goldrush_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (160847 bytes)
+Static prop models/props_trainyard/train_billboard001_sm.mdl outside the map (-4848.00, 1456.00, -13.06)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 396 texinfos to 241
+Reduced 14 texdatas to 13 (328 bytes to 302)
+Writing C:\Users\lukeb\Documents\GitHub\TF2_Hammer\Map\koth_midtown_mayhem.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\lukeb\Documents\GitHub\TF2_Hammer\Map\koth_midtown_mayhem.bsp', but we don't own that location. Allowing.
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\users\lukeb\documents\github\tf2_hammer\map\koth_midtown_mayhem.bsp
+reading c:\users\lukeb\documents\github\tf2_hammer\map\koth_midtown_mayhem.prt
+ 728 portalclusters
+2358 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 2556 visible clusters (1.08%)
+Total clusters visible: 237145
+Average clusters visible: 325
+Building PAS...
+Average clusters audible: 722
+visdatasize:130186  compressed from 139776
+writing c:\users\lukeb\documents\github\tf2_hammer\map\koth_midtown_mayhem.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\lukeb\documents\github\tf2_hammer\map\koth_midtown_mayhem.bsp', but we don't own that location. Allowing.
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+31 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\lukeb\documents\github\tf2_hammer\map\koth_midtown_mayhem.bsp
+2511 faces
+984758 square feet [141805184.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2511 patches before subdivision
+77711 patches after subdivision
+light has _fifty_percent_distance of 40.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 40.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 40.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 40.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 40.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 40.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 40.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 40.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 40.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 40.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 40.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 40.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 40.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 40.000000 but _zero_percent_distance of 0.000000
+47 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 6047299, max 575
+transfer lists:  46.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(477077, 239110, 198864)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(65388, 17285, 14970)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(13279, 1471, 1274)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3256, 147, 126)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(936, 16, 14)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(289, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(94, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(32, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(11, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0140 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  26/1024         1248/49152    ( 2.5%) 
+brushes                440/8192         5280/98304    ( 5.4%) 
+brushsides            2900/65536       23200/524288   ( 4.4%) 
+planes                1214/65536       24280/1310720  ( 1.9%) 
+vertexes              3727/65536       44724/786432   ( 5.7%) 
+nodes                 1565/65536       50080/2097152  ( 2.4%) 
+texinfos               241/12288       17352/884736   ( 2.0%) 
+texdata                 13/2048          416/65536    ( 0.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2511/65536      140616/3670016  ( 3.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1213/65536       67928/3670016  ( 1.9%) 
+leaves                1592/65536       50944/2097152  ( 2.4%) 
+leaffaces             2789/65536        5578/131072   ( 4.3%) 
+leafbrushes           1016/65536        2032/131072   ( 1.6%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            16620/512000      66480/2048000  ( 3.2%) 
+edges                 9257/256000      37028/1024000  ( 3.6%) 
+LDR worldlights         47/8192         4136/720896   ( 0.6%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            204/32768        2040/327680   ( 0.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          3072/65536        6144/131072   ( 4.7%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     2825448/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      130186/16777216 ( 0.8%) 
+entdata               [variable]       35009/393216   ( 8.9%) 
+LDR ambient table     1592/65536        6368/262144   ( 2.4%) 
+HDR ambient table     1592/65536        6368/262144   ( 2.4%) 
+LDR leaf ambient     10237/65536      286636/1835008  (15.6%) 
+HDR leaf ambient      1592/65536       44576/1835008  ( 2.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/3352     ( 0.0%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]      160847/4194304  ( 3.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 6760
+Writing c:\users\lukeb\documents\github\tf2_hammer\map\koth_midtown_mayhem.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+7 seconds elapsed
